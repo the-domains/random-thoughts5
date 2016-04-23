@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T21:00:00.441Z'
-dateModified: '2016-04-23T18:10:18.484Z'
-title: Random Thoughts
+datePublished: '2016-04-23T21:04:16.086Z'
+dateModified: '2016-04-23T21:04:01.408Z'
+title: Door
 author:
   - name: ''
     url: ''
@@ -24,5 +24,7 @@ url: random-thoughts/index.html
 _type: Article
 
 ---
-# **Random Thoughts**
+# Door
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e30c6c884322550469ff3d074d4e48e997432529.jpg)
+
+No Door is Ever Truly Shut!
