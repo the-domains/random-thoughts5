@@ -1,24 +1,24 @@
 ---
-description: ''
-datePublished: '2016-04-23T17:14:05.325Z'
+inFeed: true
+hasPage: true
 inNav: false
 inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-23T18:08:04.584Z'
+dateModified: '2016-04-23T17:17:22.746Z'
+title: 'The Caribbean '
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-23-the-caribbean.md
-hasPage: true
 published: true
 authors: []
-title: 'The Caribbean '
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
-keywords: []
-dateModified: '2016-04-23T17:11:48.120Z'
-inFeed: true
+  favicon: null
 starred: false
 url: the-caribbean/index.html
 _type: Article
