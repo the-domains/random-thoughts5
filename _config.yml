@@ -1,0 +1,28 @@
+name: Random Thoughts
+favicon: null
+layout_spectrum: 0.3224862115457654
+typography_spectrum: 0.44289731443859637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3296623509377241
+  lightness: 0.7272010422311723
+  saturation: 0.2923246305435896
+  rhythmicContrast: 0.5966432455461472
+purpose: []
