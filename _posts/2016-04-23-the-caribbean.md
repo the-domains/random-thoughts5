@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T18:24:52.804Z'
-dateModified: '2016-04-23T18:24:18.418Z'
+datePublished: '2016-04-23T21:07:08.162Z'
+dateModified: '2016-04-23T21:07:02.099Z'
 title: 'The Caribbean '
 author:
   - name: ''
@@ -25,3 +25,5 @@ _type: Article
 
 ---
 # The Caribbean ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ceb3ef1d-26fb-4164-a773-e2d2ebadacad.jpg)
+
+Missing the Good Things in Life...
