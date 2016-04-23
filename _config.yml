@@ -1,7 +1,7 @@
 name: Random Thoughts
 favicon: null
-layout_spectrum: 0.03673
-typography_spectrum: 0.83055
+layout_spectrum: 0.25125
+typography_spectrum: 0.96411
 collections:
   - index:
       path: /
