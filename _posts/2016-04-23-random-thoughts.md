@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T15:58:49.736Z'
-dateModified: '2016-04-23T15:58:42.104Z'
+datePublished: '2016-04-23T16:52:07.094Z'
+dateModified: '2016-04-23T16:16:42.990Z'
 title: Random Thoughts
 author:
   - name: ''
@@ -19,12 +19,12 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: random-thoughts/index.html
 _type: Article
 
 ---
 # **Random Thoughts**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93a82702-d4a2-4a00-8c83-56b228552d59.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e30c6c884322550469ff3d074d4e48e997432529.jpg)
 
 # No door is ever truly shut!
