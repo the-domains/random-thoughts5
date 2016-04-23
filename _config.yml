@@ -1,28 +1,40 @@
-name: Random Thoughts
-favicon: null
-layout_spectrum: 0.3224862115457654
-typography_spectrum: 0.44289731443859637
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.234767
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2923246305435896
+  brandStrength: 0.3296623509377241
+  rhythmicContrast: 0.5966432455461472
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.3296623509377241
   lightness: 0.7272010422311723
-  saturation: 0.2923246305435896
-  rhythmicContrast: 0.5966432455461472
-purpose: []
+typography_spectrum: 0.937276
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Random Thoughts
