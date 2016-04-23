@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T16:52:07.094Z'
-dateModified: '2016-04-23T16:16:42.990Z'
+datePublished: '2016-04-23T18:07:51.849Z'
+dateModified: '2016-04-23T18:07:04.798Z'
 title: Random Thoughts
 author:
   - name: ''
