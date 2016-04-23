@@ -33,7 +33,7 @@ color:
     - '#5699c3'
     - '#666229'
     - '#005a98'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
