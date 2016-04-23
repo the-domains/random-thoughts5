@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T21:04:16.086Z'
-dateModified: '2016-04-23T21:04:01.408Z'
+datePublished: '2016-04-23T21:06:20.141Z'
+dateModified: '2016-04-23T21:06:06.052Z'
 title: Door
 author:
   - name: ''
@@ -20,8 +21,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: random-thoughts/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Door
