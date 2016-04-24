@@ -1,6 +1,6 @@
 name: Random Thoughts
 favicon: null
-layout_spectrum: 0.49165
+layout_spectrum: 0.21786
 typography_spectrum: 0.96411
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#0063db'
     - '#378eff'
     - '#79d9ff'
-  brandStrength: 0.0625
+  brandStrength: 0
   lightness: 0.9375
   saturation: 1
   rhythmicContrast: 0.75
